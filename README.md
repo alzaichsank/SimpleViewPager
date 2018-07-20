@@ -10,3 +10,8 @@ Simple View Pager Android with kotlin or java
 1. copy costum view pager
 2. copy that fragment,res xml, and costum appbar
 3. create acvitiy and replace with my coding
+
+# Java
+
+- tomorrow -
+just clone the project
