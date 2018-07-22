@@ -13,5 +13,8 @@ Simple View Pager Android with kotlin or java
 
 # Java
 
-- tomorrow -
-just clone the project
+1. copy code from activity java to your activity
+2. create xml same with my code ( just copy )
+3. create fragment.java ( you can see example on my code ) 
+4. create xml fragment ( you can see example on my code )
+5. run the project
